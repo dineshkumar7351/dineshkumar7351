@@ -2,7 +2,7 @@
 
   <!-- 3D Header Banner -->
   <a href="https://github.com/dineshkumar7351">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31,43&height=200&section=header&text=Hi%20there,%20I'm%20Dinesh%20Kumar%20S%20👋&fontSize=36&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Java%20Architect%20%7C%20200%2B%20LeetCode&descSize=17&descAlignY=60&descAlign=50" width="100%" alt="Dinesh Kumar Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=200&section=header&text=Hi%20there,%20I'm%20Dinesh%20Kumar%20S%20👋&fontSize=36&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Java%20Architect%20%7C%20Software%20Engineer&descSize=17&descAlignY=60&descAlign=50" width="100%" alt="Dinesh Kumar Header"/>
   </a>
 
   <!-- 3D Avatar -->
@@ -12,7 +12,7 @@
 
   <!-- Animated Typing Subheading -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&height=35&lines=Full-Stack+Web+Developer;Java+%26+OOP+Architect;Building+Scalable+%26+AI-Powered+Apps;200%2B+LeetCode+Problems+Solved" alt="Animated Typing Subheading" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&height=35&lines=Full-Stack+Web+Developer;Java+%26+OOP+Architect;Building+Scalable+%26+AI-Powered+Apps;Passionate+Software+Engineer" alt="Animated Typing Subheading" />
   </p>
 
   <p align="center">
@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="https://leetcode.com/dineshkumar7351" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+      <img src="https://img.shields.io/badge/LeetCode-Practice_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
     </a>
     <a href="tel:+916374269911">
       <img src="https://img.shields.io/badge/Phone-+91_63742_69911-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge" />
