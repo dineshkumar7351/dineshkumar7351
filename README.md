@@ -2,17 +2,17 @@
 
   <!-- 3D Header Banner -->
   <a href="https://github.com/dineshkumar7351">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31,43&height=220&section=header&text=Hi%20there,%20I'm%20Dinesh%20Kumar%20S%20👋&fontSize=38&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Java%20Architect%20%7C%20200%2B%20LeetCode&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Dinesh Kumar Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31,43&height=200&section=header&text=Hi%20there,%20I'm%20Dinesh%20Kumar%20S%20👋&fontSize=36&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Java%20Architect%20%7C%20200%2B%20LeetCode&descSize=17&descAlignY=60&descAlign=50" width="100%" alt="Dinesh Kumar Header"/>
   </a>
 
-  <!-- 3D Avatar (True Circular 3D Glow) -->
+  <!-- 3D Avatar -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/main/assets/avatar-3d.png" width="180" height="180" alt="Dinesh Kumar S 3D Avatar"/>
+    <img src="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/main/assets/avatar-3d.png" width="170" height="170" alt="Dinesh Kumar S 3D Avatar"/>
   </p>
 
   <!-- Animated Typing Subheading -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&height=40&lines=Full-Stack+Web+Developer;Java+%26+OOP+Architect;Building+Scalable+%26+AI-Powered+Apps;200%2B+LeetCode+Problems+Solved" alt="Animated Typing Subheading" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&height=35&lines=Full-Stack+Web+Developer;Java+%26+OOP+Architect;Building+Scalable+%26+AI-Powered+Apps;200%2B+LeetCode+Problems+Solved" alt="Animated Typing Subheading" />
   </p>
 
   <p align="center">
@@ -20,7 +20,7 @@
     <i>Building scalable systems, crafting interactive digital experiences, and engineering intelligent software.</i>
   </p>
 
-  <!-- Quick Social & Portfolio Badges (3D Glow Style) -->
+  <!-- Quick Social Badges -->
   <p align="center">
     <a href="mailto:dineshk735100@gmail.com">
       <img src="https://img.shields.io/badge/Email-dineshk735100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
@@ -57,11 +57,11 @@ core_philosophy: "Turn complex real-world challenges into elegant, high-performa
 
 <div align="center">
 
-  <!-- 3D / Gradient Skill Badges Grid -->
+  <!-- 3D Skill Badges Table -->
   <table>
     <tr>
-      <td align="center" width="25%"><b>Category</b></td>
-      <td align="center" width="75%"><b>Technologies & Frameworks</b></td>
+      <td align="center" width="28%"><b>Category</b></td>
+      <td align="center" width="72%"><b>Technologies & Frameworks</b></td>
     </tr>
     <tr>
       <td align="center"><b>☕ Core & Languages</b></td>
@@ -106,12 +106,12 @@ core_philosophy: "Turn complex real-world challenges into elegant, high-performa
     </tr>
   </table>
 
-  <br/>
-
   <!-- Interactive 3D Skill Icons Stack -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,nodejs,express,mongodb,mysql,git,github,vscode&perline=6&theme=dark" alt="Dinesh Skills Matrix" />
-  </a>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,js,react,html,css,nodejs,express,mongodb,mysql,git,github,vscode&perline=6&theme=dark" alt="Dinesh Skills Matrix" />
+    </a>
+  </p>
 
 </div>
 
@@ -122,33 +122,34 @@ core_philosophy: "Turn complex real-world challenges into elegant, high-performa
 <div align="center">
   <p><b>I am always excited to discuss full-stack engineering, Java systems, and high-impact opportunities!</b></p>
   
-  <a href="https://linkedin.com/in/dineshkumar7351" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:dineshk735100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/dineshkumar7351" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/dineshkumar7351" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <p align="center">
+    <a href="https://linkedin.com/in/dineshkumar7351" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="mailto:dineshk735100@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/dineshkumar7351" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/dineshkumar7351" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 
-  <br/><br/>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=dineshkumar7351&label=PROFILE+VIEWS&style=flat-square&color=00F0FF" alt="Profile Views" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dineshkumar7351&label=PROFILE+VIEWS&style=flat-square&color=00F0FF" alt="Profile Views" />
+  </p>
 
-  <br/><br/>
   <p align="center">
     <i>Designed with precision & passion by <b>Dinesh Kumar S</b> 🚀</i>
   </p>
 
   <!-- 3D Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=43,31,24,12,1&height=120&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=43,31,24,12,1&height=90&section=footer" width="100%" alt="Footer"/>
 
 </div>
+
