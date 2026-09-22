@@ -38,22 +38,6 @@
 
 </div>
 
----
-
-### 🔮 &nbsp; About Me
-
-```yaml
-name: Dinesh Kumar S
-current_focus: Full-Stack Development & Java Architecture
-education: B.E. Computer Science & Engineering (CGPA: 7.97)
-location: India 🇮🇳
-passions:
-  - 🌐 Designing robust full-stack web applications
-  - ☕ Architecting object-oriented Java solutions
-  - 🤖 Integrating AI/ML workflows into web interfaces
-  - 🧩 Algorithmic problem solving & clean code design
-core_philosophy: "Turn complex real-world challenges into elegant, high-performance code."
-```
 
 ---
 
