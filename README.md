@@ -25,10 +25,10 @@
     <a href="mailto:dineshk735100@gmail.com">
       <img src="https://img.shields.io/badge/Email-dineshk735100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
-    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <a href="https://linkedin.com/in/dineshkumar7351" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="https://leetcode.com/your-leetcode-username" target="_blank">
+    <a href="https://leetcode.com/dineshkumar7351" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
     </a>
     <a href="tel:+916374269911">
@@ -38,6 +38,18 @@
 
 </div>
 
+---
+
+### 🔮 &nbsp; About Me
+
+```yaml
+passions:
+  - 🌐 Designing robust full-stack web applications
+  - ☕ Architecting object-oriented Java solutions
+  - 🤖 Integrating AI/ML workflows into web interfaces
+  - 🧩 Algorithmic problem solving & clean code design
+core_philosophy: "Turn complex real-world challenges into elegant, high-performance code."
+```
 
 ---
 
