@@ -7,7 +7,7 @@
 
   <!-- 3D Avatar with Glowing Circular Frame -->
   <a href="https://github.com/dineshkumar7351">
-    <img src="assets/avatar-3d.png" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 25px #00F0FF, 0 0 50px #8A2BE2; border: 3px solid #00F0FF; margin-top: 15px; margin-bottom: 10px;" alt="Dinesh Kumar S 3D Avatar"/>
+    <img src="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/main/assets/avatar-3d.png" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 25px #00F0FF, 0 0 50px #8A2BE2; border: 3px solid #00F0FF; margin-top: 15px; margin-bottom: 10px;" alt="Dinesh Kumar S 3D Avatar"/>
   </a>
 
   <!-- Animated Typing Subheading -->
