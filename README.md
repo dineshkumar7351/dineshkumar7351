@@ -117,24 +117,12 @@ core_philosophy: "Turn complex real-world challenges into elegant, high-performa
 
 ---
 
-### 🐍 &nbsp; 3D Contribution Grid Journey
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ### 📬 &nbsp; Connect & Collaborate
 
 <div align="center">
   <p><b>I am always excited to discuss full-stack engineering, Java systems, and high-impact opportunities!</b></p>
   
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://linkedin.com/in/dineshkumar7351" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -142,7 +130,7 @@ core_philosophy: "Turn complex real-world challenges into elegant, high-performa
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
+  <a href="https://leetcode.com/dineshkumar7351" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
