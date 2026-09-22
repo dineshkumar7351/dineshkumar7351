@@ -5,15 +5,15 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31,43&height=220&section=header&text=Hi%20there,%20I'm%20Dinesh%20Kumar%20S%20👋&fontSize=38&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Java%20Architect%20%7C%20200%2B%20LeetCode&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Dinesh Kumar Header"/>
   </a>
 
-  <!-- 3D Avatar with Glowing Circular Frame -->
-  <a href="https://github.com/dineshkumar7351">
-    <img src="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/main/assets/avatar-3d.png" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 25px #00F0FF, 0 0 50px #8A2BE2; border: 3px solid #00F0FF; margin-top: 15px; margin-bottom: 10px;" alt="Dinesh Kumar S 3D Avatar"/>
-  </a>
+  <!-- 3D Avatar (True Circular 3D Glow) -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/main/assets/avatar-3d.png" width="180" height="180" alt="Dinesh Kumar S 3D Avatar"/>
+  </p>
 
   <!-- Animated Typing Subheading -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=620&height=50&lines=🚀+Full-Stack+Web+Developer;☕+Passionate+Java+%26+OOP+Practitioner;💡+Building+Scalable+%26+AI-Powered+Applications;⚡+200%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&height=40&lines=Full-Stack+Web+Developer;Java+%26+OOP+Architect;Building+Scalable+%26+AI-Powered+Apps;200%2B+LeetCode+Problems+Solved" alt="Animated Typing Subheading" />
+  </p>
 
   <p align="center">
     <b>🎓 CSE Undergrad (2023–2027) @ Sri Shakthi Institute of Engineering and Technology</b><br/>
