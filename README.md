@@ -2,7 +2,7 @@
 
   <!-- 3D Header Banner -->
   <a href="https://github.com/dineshkumar7351">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=200&section=header&text=Hi%20there,%20I'm%20Dinesh%20Kumar%20S%20👋&fontSize=36&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Java%20Architect%20%7C%20Software%20Engineer&descSize=17&descAlignY=60&descAlign=50" width="100%" alt="Dinesh Kumar Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,18,22&height=200&section=header&text=Hi%20there,%20I'm%20Dinesh%20Kumar%20S%20👋&fontSize=36&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Java%20Architect%20%7C%20Software%20Engineer&descSize=17&descAlignY=60&descAlign=50" width="100%" alt="Dinesh Kumar Header"/>
   </a>
 
   <!-- 3D Avatar -->
@@ -149,7 +149,7 @@ core_philosophy: "Turn complex real-world challenges into elegant, high-performa
   </p>
 
   <!-- 3D Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=43,31,24,12,1&height=90&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,18,10,5,0&height=90&section=footer" width="100%" alt="Footer"/>
 
 </div>
 
