@@ -198,29 +198,6 @@ core_philosophy: "Turn complex real-world challenges into elegant, high-performa
 
 ---
 
-### 📊 &nbsp; 3D Real-Time GitHub Analytics & Metrics
-
-<div align="center">
-
-  <!-- GitHub Stats & Top Languages (Cyberpunk / Radical Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshkumar7351&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00F0FF" width="48.5%" alt="Dinesh GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar7351&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48.5%" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- 3D Isometric Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkumar7351&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak Stats" />
-
-  <br/><br/>
-
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshkumar7351&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Activity Graph" />
-
-</div>
-
----
-
 ### 🐍 &nbsp; 3D Contribution Grid Journey
 
 <div align="center">
