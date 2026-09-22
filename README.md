@@ -1,0 +1,270 @@
+<div align="center">
+
+  <!-- 3D Header Banner -->
+  <a href="https://github.com/dineshkumar7351">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31,43&height=220&section=header&text=Hi%20there,%20I'm%20Dinesh%20Kumar%20S%20👋&fontSize=38&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Java%20Architect%20%7C%20200%2B%20LeetCode&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Dinesh Kumar Header"/>
+  </a>
+
+  <!-- 3D Avatar with Glowing Circular Frame -->
+  <a href="https://github.com/dineshkumar7351">
+    <img src="assets/avatar-3d.png" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 25px #00F0FF, 0 0 50px #8A2BE2; border: 3px solid #00F0FF; margin-top: 15px; margin-bottom: 10px;" alt="Dinesh Kumar S 3D Avatar"/>
+  </a>
+
+  <!-- Animated Typing Subheading -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=620&height=50&lines=🚀+Full-Stack+Web+Developer;☕+Passionate+Java+%26+OOP+Practitioner;💡+Building+Scalable+%26+AI-Powered+Applications;⚡+200%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <b>🎓 CSE Undergrad (2023–2027) @ Sri Shakthi Institute of Engineering and Technology</b><br/>
+    <i>Building scalable systems, crafting interactive digital experiences, and engineering intelligent software.</i>
+  </p>
+
+  <!-- Quick Social & Portfolio Badges (3D Glow Style) -->
+  <p align="center">
+    <a href="mailto:dineshk735100@gmail.com">
+      <img src="https://img.shields.io/badge/Email-dineshk735100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="https://leetcode.com/your-leetcode-username" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+    </a>
+    <a href="tel:+916374269911">
+      <img src="https://img.shields.io/badge/Phone-+91_63742_69911-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🔮 &nbsp; About Me
+
+```yaml
+name: Dinesh Kumar S
+current_focus: Full-Stack Development & Java Architecture
+education: B.E. Computer Science & Engineering (CGPA: 7.97)
+location: India 🇮🇳
+passions:
+  - 🌐 Designing robust full-stack web applications
+  - ☕ Architecting object-oriented Java solutions
+  - 🤖 Integrating AI/ML workflows into web interfaces
+  - 🧩 Algorithmic problem solving & clean code design
+core_philosophy: "Turn complex real-world challenges into elegant, high-performance code."
+```
+
+---
+
+### 🪐 &nbsp; 3D Tech Cosmos & Skills
+
+<div align="center">
+
+  <!-- 3D / Gradient Skill Badges Grid -->
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Category</b></td>
+      <td align="center" width="75%"><b>Technologies & Frameworks</b></td>
+    </tr>
+    <tr>
+      <td align="center"><b>☕ Core & Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/OOP_Concepts-6C5CE7?style=for-the-badge&logo=the-algorithms&logoColor=white" alt="OOP"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🎨 Frontend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/Responsive_Design-00CEC9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Responsive"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>⚙️ Backend & APIs</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/REST_APIs-0984E3?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🗄️ Databases</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🛠️ Tools & DevOps</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/Razorpay_API-0C2340?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Interactive 3D Skill Icons Stack -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,nodejs,express,mongodb,mysql,git,github,vscode&perline=6&theme=dark" alt="Dinesh Skills Matrix" />
+  </a>
+
+</div>
+
+---
+
+### 🚀 &nbsp; Featured Projects & Innovations
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Spare Kart</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Razorpay-0C2340?style=flat-square&logo=razorpay&logoColor=3395FF"/>
+      </p>
+      <ul>
+        <li><b>Full-Stack E-Commerce Engine:</b> End-to-end purchasing workflow with real-time product filtering, smart cart management, and seamless Razorpay payment gateway integration.</li>
+        <li><b>Admin Intelligence Hub:</b> Dynamic dashboard for real-time inventory tracking, order management, and sales analytics.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/dineshkumar7351"><b>View Code 🔗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI-Assisted Blogging Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AI_Integration-8A2BE2?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SEO_Engine-00C853?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+      <ul>
+        <li><b>Smart Content Creation:</b> AI-driven title generation, grammar correction, and readability scoring with instant SEO recommendation engines.</li>
+        <li><b>Human-in-the-Loop Architecture:</b> Writers maintain total control by interactively previewing and approving AI suggestions.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/dineshkumar7351"><b>View Code 🔗</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🏦 Bank Ledger System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java_Core-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OOP_Architecture-6C5CE7?style=flat-square&logo=the-algorithms&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSV_File_Handling-2E86DE?style=flat-square&logo=files&logoColor=white"/>
+      </p>
+      <ul>
+        <li><b>Enterprise-Grade Core Banking:</b> Secure account creation, encrypted PIN verification, deposit/withdrawal routines, and balance reconciliation.</li>
+        <li><b>Persistent Storage & Reliability:</b> Custom CSV storage engine, Java Collections data layer, and robust exception-handling for transactional integrity.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/dineshkumar7351"><b>View Code 🔗</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 &nbsp; Certifications & Milestones
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h4>📜 NPTEL Certified: Programming in Java</h4>
+        <p>In-depth mastery of Object-Oriented Design, Collections Framework, Multithreading, and Exception Handling.</p>
+        <img src="https://img.shields.io/badge/NPTEL-Certified_in_Java-FF6F00?style=for-the-badge&logo=apache&logoColor=white" alt="NPTEL Java"/>
+      </td>
+      <td width="50%" align="center">
+        <h4>⚡ LeetCode Problem Solver</h4>
+        <p>Solved <b>200+ LeetCode problems</b> mastering Data Structures, Algorithms, and System Optimization.</p>
+        <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 &nbsp; 3D Real-Time GitHub Analytics & Metrics
+
+<div align="center">
+
+  <!-- GitHub Stats & Top Languages (Cyberpunk / Radical Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dineshkumar7351&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00F0FF" width="48.5%" alt="Dinesh GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar7351&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48.5%" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- 3D Isometric Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkumar7351&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshkumar7351&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Activity Graph" />
+
+</div>
+
+---
+
+### 🐍 &nbsp; 3D Contribution Grid Journey
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dineshkumar7351/dineshkumar7351/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 📬 &nbsp; Connect & Collaborate
+
+<div align="center">
+  <p><b>I am always excited to discuss full-stack engineering, Java systems, and high-impact opportunities!</b></p>
+  
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dineshk735100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/dineshkumar7351" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=dineshkumar7351&label=PROFILE+VIEWS&style=flat-square&color=00F0FF" alt="Profile Views" />
+
+  <br/><br/>
+  <p align="center">
+    <i>Designed with precision & passion by <b>Dinesh Kumar S</b> 🚀</i>
+  </p>
+
+  <!-- 3D Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=43,31,24,12,1&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
