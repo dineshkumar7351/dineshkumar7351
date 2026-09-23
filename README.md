@@ -20,19 +20,19 @@
     <i>Building scalable systems, crafting interactive digital experiences, and engineering intelligent software.</i>
   </p>
 
-  <!-- Quick Social Badges -->
+  <!-- Quick 3D Social Badges -->
   <p align="center">
     <a href="mailto:dineshk735100@gmail.com">
-      <img src="https://img.shields.io/badge/Email-dineshk735100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+      <img src="./assets/badge-email-3d.svg" alt="Email Badge" height="34" />
     </a>
     <a href="https://www.linkedin.com/in/dinesh-kumar-754697296" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+      <img src="./assets/badge-linkedin-3d.svg" alt="LinkedIn Badge" height="34" />
     </a>
     <a href="https://leetcode.com/u/Dineshkumar_23/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-Practice_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+      <img src="./assets/badge-leetcode-3d.svg" alt="LeetCode Badge" height="34" />
     </a>
     <a href="tel:+916374269911">
-      <img src="https://img.shields.io/badge/Phone-+91_63742_69911-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge" />
+      <img src="./assets/badge-phone-3d.svg" alt="Phone Badge" height="34" />
     </a>
   </p>
 

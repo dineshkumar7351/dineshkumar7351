@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 38" width="330" height="38">
+  <defs>
+    <!-- Drop Shadow for 3D floating effect -->
+    <filter id="shadow" x="-10%" y="-20%" width="125%" height="160%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+
+    <!-- 3D Bevel & Gloss Gradients -->
+    <linearGradient id="darkSide" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a4e58"/>
+      <stop offset="40%" stop-color="#2d3038"/>
+      <stop offset="100%" stop-color="#191a1f"/>
+    </linearGradient>
+
+    <linearGradient id="gmailRed" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff6b5a"/>
+      <stop offset="25%" stop-color="#ea4335"/>
+      <stop offset="75%" stop-color="#d32f2f"/>
+      <stop offset="100%" stop-color="#9a0007"/>
+    </linearGradient>
+
+    <linearGradient id="gloss" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="50%" stop-color="#000000" stop-opacity="0.0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.35"/>
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <!-- Base Shape Outer Border with 3D Chamfer -->
+    <rect x="1" y="1" width="326" height="32" rx="6" fill="#15161a" stroke="url(#borderGrad)" stroke-width="1.2"/>
+
+    <!-- Left (Dark) Side: EMAIL -->
+    <path d="M 2 6 C 2 3.8 3.8 2 6 2 L 95 2 L 95 32 L 6 32 C 3.8 32 2 30.2 2 28 Z" fill="url(#darkSide)"/>
+    <path d="M 2 6 C 2 3.8 3.8 2 6 2 L 95 2 L 95 32 L 6 32 C 3.8 32 2 30.2 2 28 Z" fill="url(#gloss)"/>
+
+    <!-- Divider Line with 3D Inset -->
+    <line x1="95" y1="2" x2="95" y2="32" stroke="#121316" stroke-width="1.5"/>
+    <line x1="96" y1="2" x2="96" y2="32" stroke="#ffffff" stroke-width="0.6" stroke-opacity="0.2"/>
+
+    <!-- Right (Color) Side: Value -->
+    <path d="M 96 2 L 321 2 C 323.2 2 325 3.8 325 6 L 325 28 C 325 30.2 323.2 32 321 32 L 96 32 Z" fill="url(#gmailRed)"/>
+    <path d="M 96 2 L 321 2 C 323.2 2 325 3.8 325 6 L 325 28 C 325 30.2 323.2 32 321 32 L 96 32 Z" fill="url(#gloss)"/>
+
+    <!-- Gmail Icon (White 3D Embossed) -->
+    <g transform="translate(10, 8)" filter="drop-shadow(0 1px 1px rgba(0,0,0,0.5))">
+      <path fill="#ffffff" d="M16 2.5H4C3.17 2.5 2.5 3.17 2.5 4v10c0 .83.67 1.5 1.5 1.5h12c.83 0 1.5-.67 1.5-1.5V4c0-.83-.67-1.5-1.5-1.5zm-.5 3.25L10 9.17 4.5 5.75V4.25L10 7.67l5.5-3.42v1.5z"/>
+    </g>
+
+    <!-- Text: EMAIL -->
+    <text x="36" y="21.5" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="0.8" filter="drop-shadow(0 1px 2px rgba(0,0,0,0.8))">EMAIL</text>
+
+    <!-- Text: Email Address -->
+    <text x="210" y="21.5" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="0.5" filter="drop-shadow(0 1px 2px rgba(0,0,0,0.7))">DINESHK735100@GMAIL.COM</text>
+  </g>
+</svg>

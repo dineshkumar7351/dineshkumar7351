@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 38" width="260" height="38">
+  <defs>
+    <filter id="shadow" x="-10%" y="-20%" width="125%" height="160%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+
+    <linearGradient id="darkSide" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a4e58"/>
+      <stop offset="40%" stop-color="#2d3038"/>
+      <stop offset="100%" stop-color="#191a1f"/>
+    </linearGradient>
+
+    <linearGradient id="leetCodeOrange" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffb84d"/>
+      <stop offset="25%" stop-color="#ffa116"/>
+      <stop offset="75%" stop-color="#e58300"/>
+      <stop offset="100%" stop-color="#a65800"/>
+    </linearGradient>
+
+    <linearGradient id="gloss" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="50%" stop-color="#000000" stop-opacity="0.0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.35"/>
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <!-- Base Shape Outer Border -->
+    <rect x="1" y="1" width="256" height="32" rx="6" fill="#15161a" stroke="url(#borderGrad)" stroke-width="1.2"/>
+
+    <!-- Left (Dark) Side: LEETCODE -->
+    <path d="M 2 6 C 2 3.8 3.8 2 6 2 L 110 2 L 110 32 L 6 32 C 3.8 32 2 30.2 2 28 Z" fill="url(#darkSide)"/>
+    <path d="M 2 6 C 2 3.8 3.8 2 6 2 L 110 2 L 110 32 L 6 32 C 3.8 32 2 30.2 2 28 Z" fill="url(#gloss)"/>
+
+    <!-- Divider Line -->
+    <line x1="110" y1="2" x2="110" y2="32" stroke="#121316" stroke-width="1.5"/>
+    <line x1="111" y1="2" x2="111" y2="32" stroke="#ffffff" stroke-width="0.6" stroke-opacity="0.2"/>
+
+    <!-- Right (Color) Side: PRACTICE PROFILE -->
+    <path d="M 111 2 L 251 2 C 253.2 2 255 3.8 255 6 L 255 28 C 255 30.2 253.2 32 251 32 L 111 32 Z" fill="url(#leetCodeOrange)"/>
+    <path d="M 111 2 L 251 2 C 253.2 2 255 3.8 255 6 L 255 28 C 255 30.2 253.2 32 251 32 L 111 32 Z" fill="url(#gloss)"/>
+
+    <!-- LeetCode Icon -->
+    <g transform="translate(10, 8)" filter="drop-shadow(0 1px 1px rgba(0,0,0,0.5))">
+      <path fill="#ffffff" d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 5.844a1.373 1.373 0 0 0 0 1.944l5.406 5.406a1.373 1.373 0 0 0 1.944 0 1.373 1.373 0 0 0 0-1.944L9.06 5.844l5.406-5.406A1.373 1.373 0 0 0 13.483 0zm-4.7 9.176a1.373 1.373 0 0 0-.972.402l-4.148 4.148a1.373 1.373 0 0 0 0 1.944l4.148 4.148a1.373 1.373 0 1 0 1.944-1.944L6.609 14.72l3.148-3.148a1.373 1.373 0 0 0-.974-2.396z"/>
+    </g>
+
+    <!-- Text: LEETCODE -->
+    <text x="34" y="21.5" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="0.8" filter="drop-shadow(0 1px 2px rgba(0,0,0,0.8))">LEETCODE</text>
+
+    <!-- Text: PRACTICE PROFILE -->
+    <text x="183" y="21.5" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="0.8" filter="drop-shadow(0 1px 2px rgba(0,0,0,0.7))">PRACTICE PROFILE</text>
+  </g>
+</svg>
