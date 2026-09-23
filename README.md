@@ -25,10 +25,10 @@
     <a href="mailto:dineshk735100@gmail.com">
       <img src="https://img.shields.io/badge/Email-dineshk735100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
-    <a href="https://linkedin.com/in/dineshkumar7351" target="_blank">
+    <a href="https://www.linkedin.com/in/dinesh-kumar-754697296" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="https://leetcode.com/dineshkumar7351" target="_blank">
+    <a href="https://leetcode.com/u/Dineshkumar_23/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-Practice_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
     </a>
     <a href="tel:+916374269911">
@@ -123,7 +123,7 @@ core_philosophy: "Turn complex real-world challenges into elegant, high-performa
   <p><b>I am always excited to discuss full-stack engineering, Java systems, and high-impact opportunities!</b></p>
   
   <p align="center">
-    <a href="https://linkedin.com/in/dineshkumar7351" target="_blank">
+    <a href="https://www.linkedin.com/in/dinesh-kumar-754697296" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;
@@ -131,7 +131,7 @@ core_philosophy: "Turn complex real-world challenges into elegant, high-performa
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     &nbsp;
-    <a href="https://leetcode.com/dineshkumar7351" target="_blank">
+    <a href="https://leetcode.com/u/Dineshkumar_23/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
     &nbsp;
